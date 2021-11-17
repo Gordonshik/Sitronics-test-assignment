@@ -1,0 +1,20 @@
+.header-box {
+    margin-top: 25px;
+    max-width: 355px;
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    margin-bottom: 46px;
+    width: 100%;
+    background-color: #0C2179;
+}
+
+.logo {
+    width: 133px;
+    height: 28.77px;
+}
+
+.line {
+    width: 100%;
+    max-width: 355px;
+}

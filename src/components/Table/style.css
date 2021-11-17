@@ -1,0 +1,167 @@
+.table-body {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.title {
+    font-family: Euclid Circular A, serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 57px;
+    letter-spacing: -0.015em;
+    color: #FFFFFF;
+    text-align: left;
+}
+
+.main-input {
+    height: 45px;
+    width: 100%;
+    max-width: 355px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.36);
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.main-input::placeholder {
+    padding-left: 37px;
+    font-family: Euclid Circular A, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 120%;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+}
+
+.table-name {
+    font-family: Roboto, serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15px;
+    align-items: center;
+    color: #474747;
+}
+
+.table-type {
+    font-family: Roboto, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    align-items: center;
+    color: #5C5C5C;
+}
+
+.table-status {
+    font-family: Roboto, serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    align-items: center;
+    color: #1BDA9D;
+}
+
+.table-top {
+    font-family: Euclid Circular A, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 120%;
+    color: #949494;
+    text-align: left;
+    border: none;
+    background-color: #F7F7F8;
+}
+
+.table-btn {
+    font-family: Roboto, serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 13px;
+    text-transform: uppercase;
+    color: #999999;
+    text-align: left;
+    border: none;
+}
+
+table {
+    width: 100%;
+}
+
+tr {
+    height: 70px;
+    background: #FFFFFF;
+    border-radius: 3px;
+    margin-bottom: 5px;
+}
+
+button {
+    width: 95px;
+    height: 30px;
+    font-family: Montserrat, serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    display: flex;
+    text-align: center;
+    color: #FFFFFF;
+    border-radius: 20px;
+    border: none;
+    margin: 0 auto;
+    align-items: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.input-box {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-width: 479px;
+}
+
+.filter-btn {
+    background: rgba(255, 255, 255, 0.13);
+    border-radius: 10px;
+    width: 109px;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+.filter-btn__text {
+    font-family: Euclid Circular A, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 120%;
+    letter-spacing: 0.01em;
+    margin: 0 auto;
+}
+
+tbody tr td {
+    font-family: Euclid Circular A, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 120%;
+    letter-spacing: 0.005em;
+    color: #2F2F37;
+    text-align: left;
+}
+
+tbody {
+    background-color: #FFF;
+}
+
+.table-creationDate {
+    text-align: end;
+}

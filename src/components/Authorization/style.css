@@ -1,0 +1,102 @@
+.authorization-box {
+    background-color: 
+    #0C2179;
+    max-width: 355px;
+    height: 100%;
+}
+
+.authorization-h2 {
+    font-family: Euclid Circular A;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 44px;
+    letter-spacing: -0.01em;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+    text-align: start;
+    max-width: 222px;
+    width: 100%;
+}
+
+.inputs-box {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.authorization-input {
+    max-width: 355px;
+    max-height: 60px;
+    width: 355px;
+    height: 60px;
+    background: #14287D;
+    border: 1px solid #48599D;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border-radius: 0;
+    margin-bottom: 20px;
+    font-family: Euclid Circular A;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
+    color: #FFF;
+}
+
+.authorization-input::placeholder {
+    font-family: Euclid Circular A;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
+    color: #7D8CCC;
+}
+
+.authorization-button {
+    margin-top: 15px;
+    width: 100%;
+    max-width: 355px;
+    height: 60px;
+    right: 915px;
+    background: #2C3E8A;
+    border-radius: 10px;
+    color: #7D8CCC;
+    border: none;
+    margin-bottom: 188px;
+}
+
+.authorization-button::placeholder {
+    font-family: Euclid Circular A;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
+}
+
+.support-text {
+    font-family: Euclid Circular A;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+    letter-spacing: 0.005em;
+    color: #7D8CCC;
+    max-width: 244px;
+    width: 100%
+}
+
+.support-link {
+    font-family: Euclid Circular A;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+    letter-spacing: 0.005em;
+    color: #FFF;
+    text-decoration: underline;
+}
